@@ -1,0 +1,1 @@
+processing-java --sketch=`pwd`/Visuals --output=/tmp/visuals --force --present & sleep 8 && python `pwd`/master.py
